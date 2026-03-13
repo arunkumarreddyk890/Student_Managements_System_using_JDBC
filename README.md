@@ -137,7 +137,7 @@ Student Added Successfully
 #### 📋 View Students
 
 ID | NAME | EMAIL | COURSE
-------------------------------------
+--------------------------------------
 1 | Arun Kumar | arun@gmail.com | Backend Java
 
 #### 🔍 Search Student
